@@ -16,3 +16,4 @@ are caused by two trailing spaces at the end of a line.
 - Software Carpentry
 - Data Carpentry
 -  Library Carpentry
+![Carpentries Logo](https://github.com/carpentries/carpentries.org/blob/main/images/TheCarpentries-opengraph.png)
